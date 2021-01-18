@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+.Rproj
+.Rproj.user
+
+venv/
+.env
+.env/
+.venv
+
+*.tsv
+*.csv
